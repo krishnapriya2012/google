@@ -13,6 +13,7 @@ public class SampleTest {
 		String url=System.getProperty("url");
 		System.out.println(browser);
 		System.out.println(url);
+		System.out.println("helloo success");
 		
 	}
 }
